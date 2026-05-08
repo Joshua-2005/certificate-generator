@@ -1,5 +1,5 @@
 {
-<<<<<<< HEAD
+
   "name": "server",
   "version": "1.0.0",
   "description": "",
@@ -16,7 +16,7 @@
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
     "mongoose": "^9.6.1"
-=======
+
   "name": "certificate-generator",
   "private": true,
   "version": "0.0.0",
@@ -44,6 +44,6 @@
     "eslint-plugin-react-refresh": "^0.5.2",
     "globals": "^17.5.0",
     "vite": "^8.0.10"
->>>>>>> 414c35647a86ff68ad8d498e3ac8e5ef79e9557a
+
   }
 }
